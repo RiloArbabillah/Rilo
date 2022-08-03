@@ -1,2 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiloArbabillah)](https://github.com/RiloArbabillah/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiloArbabillah)](https://github.com/RiloArbabillah/github-readme-stats)
+<p align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiloArbabillah&layout=compact)](https://github.com/RiloArbabillah/github-readme-stats)
+
+</p>
